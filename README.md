@@ -1,16 +1,5 @@
 # favapp
 
-A new Flutter project.
+![0-02-06-2dccd35f7ed3460f71506dcc4b1e34664a989aad269d362188fee3192aaeb089_63ec0260fa5c9a0a](https://github.com/Dipesh2056/Favourite-App-with-Provider/assets/59479709/45b01cdf-84f4-473c-8bfd-d818e0b9caa8)
+![0-02-06-734ae89ac8a3632284547f134a2534fa63300a3ca6db86e85fb1da6277763112_50727cdda83c8eac](https://github.com/Dipesh2056/Favourite-App-with-Provider/assets/59479709/bca88aa5-f0fd-4417-8fde-cdeb3db42eb5)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
